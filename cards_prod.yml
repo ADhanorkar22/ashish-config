@@ -8,7 +8,7 @@ build:
   version:"1.0"
 
 accounts:
-  message: "Welcome to Accounts Service"
+  message: "Welcome to Accounts production Service"
   contactDetails:
     name: "ashish"
     email: "ashish@eazybytes.com"
