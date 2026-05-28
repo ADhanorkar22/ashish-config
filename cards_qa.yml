@@ -1,0 +1,17 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version:"1.0"
+
+accounts:
+  message: "Welcome to Accounts Service"
+  contactDetails:
+    name: "ashish"
+    email: "ashish@eazybytes.com"
+    phone: "1234567890"
+  onCallSupport:
+    - 8421570262
+    - 8421570263
