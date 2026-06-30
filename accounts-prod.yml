@@ -5,7 +5,7 @@
 #      on-profile: "prod"
 
 build:
-  version: "35.0"
+  version: "40.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related production APIssssss̱ssss"
